@@ -1,6 +1,14 @@
-# calculadora_imc
+  # calculadora_imc
+  A new Flutter application.
 
-A new Flutter application.
+<p align="center">
+
+
+
+  <img src="https://github.com/SenhorN/CalculadoraIMC/raw/master/examplePRINT.png" width="216" height="384" title="hover text">
+
+  </p>
+
 
 ## Getting Started
 
